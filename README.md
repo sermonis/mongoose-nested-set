@@ -1,6 +1,20 @@
-# mongoose-nested-set
+# Mongoose Nested Sets
 
 A mongoose plugin implementing the nested set pattern for mongoose models
+
+### See also:  
+
+* [mongoose-nestedset] (https://github.com/seeden/mongoose-nestedset)
+* [mongo-nestedset-example] (https://github.com/stavros-zavrakas/mongo-nestedset-example)
+* [mongoose-tree-nested-set] (https://github.com/chleck/mongoose-tree-nested-set)
+* [mongoose-nested-set] (https://github.com/Uzlopak/mongoose-nested-set)
+*
+* [sermonis/js-nested-set. Simple helper for nested set. Nest flat or flat nested] (https://github.com/sermonis/js-nested-set)
+* 
+* [Nested Sets для Javascript] (https://habr.com/ru/post/519298/)
+* [nestedsetsjs] (https://github.com/orxtime/nestedsetsjs)
+*
+* [Sophisticated slugifier plugin for Mongoose] (https://github.com/YuriGor/mongoose-slug-updater)  
 
 ### Usage
 
