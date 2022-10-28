@@ -3,6 +3,7 @@
 A mongoose plugin implementing the nested set pattern for mongoose models
 
 ### See also:  
+[GitHub Pages](https://pages.github.com/)   
 [mongoose-nestedset] (https://github.com/seeden/mongoose-nestedset)   
 [mongoose-nestedset] (https://github.com/seeden/mongoose-nestedset)   
 [mongo-nestedset-example] (https://github.com/stavros-zavrakas/mongo-nestedset-example)   
