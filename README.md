@@ -4,11 +4,11 @@ A mongoose plugin implementing the nested set pattern for mongoose models
 
 ### See also:  
 [GitHub Pages](https://pages.github.com/)   
-[mongoose-nestedset] (https://github.com/seeden/mongoose-nestedset)   
-[mongoose-nestedset] (https://github.com/seeden/mongoose-nestedset)   
-[mongo-nestedset-example] (https://github.com/stavros-zavrakas/mongo-nestedset-example)   
-[mongoose-tree-nested-set] (https://github.com/chleck/mongoose-tree-nested-set)   
-[mongoose-nested-set] (https://github.com/Uzlopak/mongoose-nested-set)   
+[mongoose-nestedset] (https://github.com/seeden/mongoose-nestedset/)   
+[mongoose-nestedset] (https://github.com/seeden/mongoose-nestedset/)   
+[mongo-nestedset-example] (https://github.com/stavros-zavrakas/mongo-nestedset-example/)   
+[mongoose-tree-nested-set] (https://github.com/chleck/mongoose-tree-nested-set/)   
+[mongoose-nested-set] (https://github.com/Uzlopak/mongoose-nested-set/)   
    
 [sermonis/js-nested-set. Simple helper for nested set. Nest flat or flat nested] (https://github.com/sermonis/js-nested-set)   
     
