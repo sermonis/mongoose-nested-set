@@ -120,13 +120,13 @@ The following methods must be used with a callback. The callback method will be 
 
 ### Related Links/Resources
 
-* Inspired by [Rails nested_set library] (https://github.com/skyeagle/nested_set)
-* [Mongoose Documentation] (http://mongoosejs.com/)
-* [Mongoose Plugins] (http://mongoosejs.com/docs/plugins.html)
-* [Tree used in test and examples] (https://github.com/groupdock/mongoose-nested-set/raw/master/docs/test_tree.png)
-* [Nested Set Model] (http://en.wikipedia.org/wiki/Nested_set_model)
-* [Storing Hierarchical Data in a Database Article] (http://www.sitepoint.com/hierarchical-data-database/)
-* [Trees in MongoDB] (http://www.mongodb.org/display/DOCS/Trees+in+MongoDB)
+* Inspired by [Rails nested_set library](https://github.com/skyeagle/nested_set)
+* [Mongoose Documentation](http://mongoosejs.com/)
+* [Mongoose Plugins](http://mongoosejs.com/docs/plugins.html)
+* [Tree used in test and examples](https://github.com/groupdock/mongoose-nested-set/raw/master/docs/test_tree.png)
+* [Nested Set Model](http://en.wikipedia.org/wiki/Nested_set_model)
+* [Storing Hierarchical Data in a Database Article](http://www.sitepoint.com/hierarchical-data-database/)
+* [Trees in MongoDB](http://www.mongodb.org/display/DOCS/Trees+in+MongoDB)
 
 ### Development
 
